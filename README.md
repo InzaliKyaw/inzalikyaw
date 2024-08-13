@@ -1,5 +1,5 @@
 ## Hi there 👋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=inzalikyaw)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=InzaliKyaw)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inzalikyaw&layout=compact)
 
